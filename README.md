@@ -1,13 +1,5 @@
 # HLS for Neural Classification Model
 
-## Group Information
-**Group Number:** 5  
-**Group Members:**
-- **Akshay Bhosale** - 234101006
-- **Ritik Koshta** - 234101044
-- **Rumit Gore** - 236101045
-- **Prarbdh Tiwari** - 234101038
-
 ## 1. Description
 
 **Model Link:** [Neural Classification Model](https://drive.google.com/file/d/1gCzSk0O1OdZAo-VBt-kccDNIh_j1A0xZ/view?usp=drivesdk)
