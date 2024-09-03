@@ -138,5 +138,3 @@ Through each iteration, we worked to bring the results of Vivado closer to those
 All modified Keras2C generated files and the HLS4ML Jupyter notebook have been uploaded in a zip format.
 
 ---
-
-Thank you for reviewing our project documentation on **HLS for Neural Classification Model**. If you have any questions or feedback, feel free to reach out to any of the group members.
